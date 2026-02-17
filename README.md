@@ -1,4 +1,5 @@
 📚 **Bookstore Sales & Inventory Analytics System (PostgreSQL)-
+
 📌Project Overview**
 
 Designed and implemented a relational database system to analyze bookstore sales performance, customer purchasing behavior, and inventory tracking using PostgreSQL.
